@@ -1,0 +1,3 @@
+Update keywords in _layouts/default.html
+Create account: marcofrego_it.goatcounter.com
+Update assets/images/favicon.ico
