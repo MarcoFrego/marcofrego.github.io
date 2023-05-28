@@ -1,0 +1,13 @@
+dist/
+martin.tgz
+**.DS_Store
+*.sw*
+~*
+*~
+
+**.git/
+.sass-cache/
+_site/
+
+.bundle/
+vendor/
